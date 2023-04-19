@@ -1,6 +1,6 @@
 # Calculator Project 
 
-This project is a simple calculator built with TypeScript and bundled with the TypeScript bundler. It allows users to perform basic arithmetic operations such as addition, subtraction, multiplication, and division.
+This project is a simple calculator built with TypeScript and bundled with the parcel bundler. It allows users to perform basic arithmetic operations such as addition, subtraction, multiplication, and division.
 
 ## Getting Started
 To run this project, follow these steps:
